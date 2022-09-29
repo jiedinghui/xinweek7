@@ -2,10 +2,4 @@
 
 This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
 
-To set up the repository and run the marketplace locally, run the below
-```bash
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
-cd NFT-Marketplace-Tutorial
-npm install
-npm start
-```
+Contract:https://goerli.etherscan.io/address/0x7b0d3690cc1b8b10c2be95ee4e3e9c0e120ab2c1
