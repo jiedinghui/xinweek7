@@ -28,7 +28,7 @@ export default function SellNFT () {
         }
     }
 
-    //This function uploads the metadata to IPFS
+    //This function uploads the metadata to IPDS
     async function uploadMetadataToIPFS() {
         const {name, description, price} = formParams;
         //Make sure that none of the fields are empty
@@ -84,8 +84,7 @@ export default function SellNFT () {
             alert( "Upload error"+e )
         }
     }
-
-    console.log("Working", process.env);
+    
     return (
         <div className="">
         <Navbar></Navbar>
